@@ -1,2 +1,4 @@
 # DrawingOzbekGame-Otsimo-2024-Game-Dev-Internship-Task
- DrawingAppForOtsimoTask
+ Drawing app for Otsimo task that I received at ozbekyasin22@gmail.com
+
+ 
